@@ -2,7 +2,7 @@
 
 <table class="table">
 	<tr>
-		<th>Id<th>
+		<th>Id</th>
 		<th>Task</th>
 		<th>Priority</th>
 	</tr>

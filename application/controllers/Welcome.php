@@ -33,9 +33,9 @@ class Welcome extends Application
 		
 		// process the array in reverse, until we have five
 		$count = 0;
-		foreach(array_reverse($tasks) as task) {
+		foreach(array_reverse($tasks) as $task) {
 			$task->priority = $this->app->priority($task->priority);
-			$display_task[] = (array) $task;
+			$display_tasks[] = (array) $task;
 			$count++;
 			if ($count >= 5) break;
 		}
