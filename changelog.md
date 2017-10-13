@@ -6,6 +6,14 @@
 
 ## [Unreleased]
 
+## [V1.0.0] - 2017-10-12 (GY)
+### Added
+- markdown library
+- job.md that contains a job add according to markdown
+- helpme page that displays job ad 
+## Release
+- First release
+
 ## [V0.4.0] - 2017-10-12 (MA)
 ### Added
 - Functionality to display tasks by priority and by category on Homepage
