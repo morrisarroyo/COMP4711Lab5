@@ -6,6 +6,16 @@
 
 ## [Unreleased]
 
+## [V0.4.0] - 2017-10-12 (MA)
+### Added
+- Functionality to display tasks by priority and by category on Homepage
+- Secondary template 
+- by category and by priority partial views
+- Functionality for views controller to sort tasks by priority
+- Functionality for tasks model to sort tasks by category
+- Route for work navbar button
+
+
 ## [V0.3.0] - 2017-10-12 (GY)
 ### Added
 - Functionality to display tasks on Homepage
