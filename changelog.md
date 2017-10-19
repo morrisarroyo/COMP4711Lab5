@@ -6,6 +6,12 @@
 
 ## [Unreleased]
 
+## [V1.1.0] - 2017-10-19 (GY)
+### Added
+- Maintenance view and controller
+- Oneitem view for one row of status on maintenance page
+
+
 ## [V1.0.0] - 2017-10-12 (GY)
 ### Added
 - markdown library
