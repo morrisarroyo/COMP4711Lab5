@@ -66,7 +66,6 @@ class Views extends Application
 			if (substr($key,0,4) == 'task') {
 				// find the associeated task
 				$taskid = substr($key,4);
-				var_dump ($taskid);
 				$task = $this->tasks->get($taskid);
 				$task->status = 2; // complete
 				$this->tasks->update($task);
