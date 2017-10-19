@@ -6,6 +6,10 @@
 
 ## [Unreleased]
 
+## [V1.4.0] - 2017-10-19 (MA)
+### Added
+- Pagination to Mtce page for the tasks list 
+
 ## [V1.3.0] - 2017-10-19 (GY)
 ### Added
 - checkboxes, form and submittion on Work page
