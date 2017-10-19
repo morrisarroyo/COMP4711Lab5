@@ -6,6 +6,10 @@
 
 ## [Unreleased]
 
+## [V1.3.0] - 2017-10-19 (GY)
+### Added
+- checkboxes, form and submittion on Work page
+
 ## [V1.2.0] - 2017-10-19 (MA)
 ### Added
 - Roles and roles controller
