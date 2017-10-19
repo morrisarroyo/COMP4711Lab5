@@ -6,6 +6,13 @@
 
 ## [Unreleased]
 
+## [V1.2.0] - 2017-10-19 (MA)
+### Added
+- Roles and roles controller
+- Roles dropdown in menubar
+- Sessions
+- tmp directory
+
 ## [V1.1.0] - 2017-10-19 (GY)
 ### Added
 - Maintenance view and controller
