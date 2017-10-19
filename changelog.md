@@ -6,6 +6,11 @@
 
 ## [Unreleased]
 
+## [V1.5.0] - 2017-10-19 (GY)
+### Added
+- Added new item button on maintenance list
+- Added button on each Task on Id column
+
 ## [V1.4.0] - 2017-10-19 (MA)
 ### Added
 - Pagination to Mtce page for the tasks list 
