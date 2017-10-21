@@ -2,9 +2,12 @@
 <form role="form" action="/mtce/submit" method="post">
     {ftask}
     {fpriority}
-    <br/>
+    {fsize}
+    {fgroup}
+    {fstatus}
+    <br>
     {zsubmit}
-    <br/>
+    <br><br>
     <a href="/mtce/cancel"><input type="button" value="Cancel the current edit"/></a>
     <a href="/mtce/delete"><input type="button" value="Delete this todo item"/></a>
 </form>
