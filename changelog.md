@@ -5,6 +5,11 @@
 - Gabriel Yip
 
 ## [Unreleased]
+### [V1.6.0] - 2017-10-19 (MA)
+### Added
+- add, edit, delete task functionality to Maintenance page
+- task validation rules
+- Bug fixes to App model and Memory_Model
 
 ## [V1.5.0] - 2017-10-19 (GY)
 ### Added
