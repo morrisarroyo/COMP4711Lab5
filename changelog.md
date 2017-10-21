@@ -5,7 +5,12 @@
 - Gabriel Yip
 
 ## [Unreleased]
-### [V1.6.0] - 2017-10-19 (MA)
+
+## [V1.7.0] - 2017-10-20 (MA)
+### Added
+- size, group, status dropdowns to add, edit task page 
+
+## [V1.6.0] - 2017-10-20 (MA)
 ### Added
 - add, edit, delete task functionality to Maintenance page
 - task validation rules
