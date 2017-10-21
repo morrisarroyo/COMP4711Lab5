@@ -6,6 +6,43 @@
 
 ## [Unreleased]
 
+## [V1.7.0] - 2017-10-20 (MA)
+### Added
+- size, group, status dropdowns to add, edit task page 
+
+## [V1.6.0] - 2017-10-20 (MA)
+### Added
+- add, edit, delete task functionality to Maintenance page
+- task validation rules
+- Bug fixes to App model and Memory_Model
+
+## [V1.5.0] - 2017-10-19 (GY)
+### Added
+- Added new item button on maintenance list
+- Added button on each Task on Id column
+
+## [V1.4.0] - 2017-10-19 (MA)
+### Added
+- Pagination to Mtce page for the tasks list 
+
+## [V1.3.0] - 2017-10-19 (GY)
+### Added
+- checkboxes, form and submittion on Work page
+- handler in view controller for form submittion on work page
+
+## [V1.2.0] - 2017-10-19 (MA)
+### Added
+- Roles and roles controller
+- Roles dropdown in menubar
+- Sessions
+- tmp directory
+
+## [V1.1.0] - 2017-10-19 (GY)
+### Added
+- Maintenance view and controller
+- Oneitem view for one row of status on maintenance page
+
+
 ## [V1.0.0] - 2017-10-12 (GY)
 ### Added
 - markdown library
