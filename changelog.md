@@ -5,6 +5,10 @@
 - Gabriel Yip
 
 ## [Unreleased]
+## [V2.1.0] - 2017-11-2 (GY)
+### Added
+- Added Composer and phpunit
+- Task Entity Model and Entity magic methods 
 
 ## [V1.7.0] - 2017-10-20 (MA)
 ### Added
