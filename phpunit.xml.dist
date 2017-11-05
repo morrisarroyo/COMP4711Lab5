@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<phpunit
+    colors="true"
+    stopOnFailure="false"
+    backupGlobals="false"
+    backupStaticAttributes="false"
+    convertErrorsToExceptions="true"
+    convertNoticesToExceptions="true"
+    convertWarningsToExceptions="true"
+    processIsolation="false"
+    syntaxCheck="false"
+    cacheTokens="true"
+    verbose="false"
+    bootstrap="tests/Bootstrap.php">
+    <testsuites>
+        <testsuite name="CITools Test Suite">
+            <directory>./tests/</directory>
+        </testsuite>
+    </testsuites>
+    <filter>
+        <whitelist>
+            <directory>./system/</directory>
+        </whitelist>
+    </filter>
+	<logging>
+        <log type="coverage-html" target="/tmp/report" lowUpperBound="35"
+           highLowerBound="70"/>
+        <log type="coverage-clover" target="tests/tmp/coverage.xml"/>
+        <log type="coverage-php" target="tests/tmp/coverage.serialized"/>
+        <log type="coverage-text" target="php://stdout" showUncoveredFiles="false"/>
+        <log type="junit" target="tests/tmp/logfile.xml" logIncompleteSkipped="false"/>
+        <log type="testdox-html" target="tests/tmp/testdox.html"/>
+        <log type="testdox-text" target="tests/tmp/testdox.txt"/>
+    </logging>
+</phpunit>
