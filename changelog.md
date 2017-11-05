@@ -7,6 +7,10 @@
 ## [Unreleased]
 ## [V2.3.0] - 2017-11-02 (MA)
 ### Added
+- Added code coverage report generation when running phpunit
+
+## [V2.3.0] - 2017-11-02 (MA)
+### Added
 - Added TaskListTest Testcases for PHPUNIT to run
 
 ## [V2.2.0] - 2017-11-4 (GY)
