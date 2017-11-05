@@ -5,6 +5,9 @@
 - Gabriel Yip
 
 ## [Unreleased]
+## [V2.3.0] - 2017-11-02 (MA)
+### Added
+- Added TaskListTest Testcases for PHPUNIT to run
 
 ## [V2.2.0] - 2017-11-4 (GY)
 ### Added
@@ -17,6 +20,10 @@
 ### Added
 - Added Composer and phpunit
 - Task Entity Model and Entity magic methods 
+
+## [V2.0.0] - 2017-11-02 (MA)
+### Added
+- tests directory, Bootstrap.php and phpunit.xml.dist  
 
 ## [V1.7.0] - 2017-10-20 (MA)
 ### Added
