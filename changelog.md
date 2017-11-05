@@ -5,6 +5,14 @@
 - Gabriel Yip
 
 ## [Unreleased]
+
+## [V2.2.0] - 2017-11-4 (GY)
+### Added
+- Added TaskTest Testcases for PHPUNIT to run
+### Edited
+- Task with getters so TaskTest would run\
+- updated Task requirements
+
 ## [V2.1.0] - 2017-11-2 (GY)
 ### Added
 - Added Composer and phpunit
