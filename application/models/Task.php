@@ -13,7 +13,7 @@ class Task extends Entity
 	public function setTask($value) {
 		//alpha_numeric_spaces|max_length[64]
 		if(isset($value)) {
-			if(is_string($value) || empty(str_replace(' ', '', $value)) || (ctype_alnum(str_replace(' ', '', $value)) && strlen($value) <= 64)) {
+			if(is_string($value) && (empty(str_replace(' ', '', $value)) || (ctype_alnum(str_replace(' ', '', $value)) && strlen($value) <= 64))) {
 				$this->task = $value;
 			} else {
 				throw new Exception("Task $value is Invalid. No symbols and cannot have more than 64 characters.");
@@ -50,6 +50,18 @@ class Task extends Entity
 	
 	public function getTask() {
 		return $this->task;
+	}
+	
+	public function getPriority() {
+		return $this->priority;
+	}
+	
+	public function getSize() {
+		return $this->size;
+	}
+	
+	public function getGroup() {
+		return $this->group;
 	}
 	
 	
