@@ -5,7 +5,11 @@
 - Gabriel Yip
 
 ## [Unreleased]
-## [V2.3.0] - 2017-11-02 (MA)
+## [V2.4.0] - 2017-11-04 (MA)
+### Added
+- Added code coverage report generation when running phpunit
+
+## [V2.3.0] - 2017-11-04 (MA)
 ### Added
 - Added TaskListTest Testcases for PHPUNIT to run
 
