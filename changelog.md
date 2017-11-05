@@ -7,6 +7,10 @@
 ## [Unreleased]
 ## [V2.4.0] - 2017-11-04 (MA)
 ### Added
+- Added travis-ci yaml file
+
+## [V2.4.0] - 2017-11-04 (MA)
+### Added
 - Added code coverage report generation when running phpunit
 
 ## [V2.3.0] - 2017-11-04 (MA)
