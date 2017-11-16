@@ -5,6 +5,10 @@
 - Gabriel Yip
 
 ## [Unreleased]
+## [V2.6.0] - 2017-11-16 (MA)
+### Added
+- Added XML_Model file
+
 ## [V2.4.0] - 2017-11-04 (MA)
 ### Added
 - Added travis-ci yaml file
