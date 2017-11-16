@@ -5,11 +5,15 @@
 - Gabriel Yip
 
 ## [Unreleased]
-## [V2.6.0] - 2017-11-16 (MA)
+## [V3.0.1] - 2017-11-16 (MA)
 ### Added
 - Added XML_Model file
 
-## [V2.4.0] - 2017-11-04 (MA)
+## [V3.0.0] - 2017-11-16 (GY)
+### Added
+- tasks XML file in data folder
+
+## [V2.5.0] - 2017-11-04 (MA)
 ### Added
 - Added travis-ci yaml file
 
