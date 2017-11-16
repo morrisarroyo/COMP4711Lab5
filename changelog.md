@@ -5,6 +5,9 @@
 - Gabriel Yip
 
 ## [Unreleased]
+## [V3.0.1] - 2017-11-16 (MA)
+### Added
+- Added XML_Model file
 
 ## [V3.0.0] - 2017-11-16 (GY)
 ### Added
