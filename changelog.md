@@ -5,7 +5,12 @@
 - Gabriel Yip
 
 ## [Unreleased]
-## [V2.4.0] - 2017-11-04 (MA)
+
+## [V3.0.0] - 2017-11-16 (GY)
+### Added
+- tasks XML file in data folder
+
+## [V2.5.0] - 2017-11-04 (MA)
 ### Added
 - Added travis-ci yaml file
 
