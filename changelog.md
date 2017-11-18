@@ -5,6 +5,10 @@
 - Gabriel Yip
 
 ## [Unreleased]
+## [V3.0.3] - 2017-11-17 (GY)
+### Added
+- Added store method to XML_Model
+
 ## [V3.0.2] - 2017-11-16 (MA)
 ### Added
 - Added load method to XML_Model core class
