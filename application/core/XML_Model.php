@@ -72,4 +72,17 @@ class XML_Model extends Memory_Model
 	    $key = $record->{$this->_keyfield};
 	    $this->_data[$key] = $record;
     }
+	
+	protected function store()
+	{
+		$tasks = new SimpleXMLElement("<?xml version=\"1.0\" encoding=\"utf-8\"?><tasks></tasks>");
+		foreach($this->_data as &$v) {
+			$task = $tasks->addChild("task");
+			foreach($v as $key => $value) {
+				$task->addChild($key,  htmlspecialchars($value));
+			}
+		}
+
+		$tasks->asXML($this->_origin);
+	}
 }
