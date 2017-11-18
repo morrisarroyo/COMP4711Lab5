@@ -5,7 +5,23 @@
 - Gabriel Yip
 
 ## [Unreleased]
-## [V2.4.0] - 2017-11-04 (MA)
+## [V3.0.3] - 2017-11-17 (GY)
+### Added
+- Added store method to XML_Model
+
+## [V3.0.2] - 2017-11-16 (MA)
+### Added
+- Added load method to XML_Model core class
+
+## [V3.0.1] - 2017-11-16 (MA)
+### Added
+- Added XML_Model file
+
+## [V3.0.0] - 2017-11-16 (GY)
+### Added
+- tasks XML file in data folder
+
+## [V2.5.0] - 2017-11-04 (MA)
 ### Added
 - Added travis-ci yaml file
 
